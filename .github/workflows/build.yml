@@ -70,5 +70,3 @@ jobs:
       with:
         name: client-apk
         path: bin/*.apk
-        name: client-apk
-        path: bin/*.apk
